@@ -16,9 +16,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -43,10 +43,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/867134542087323698/1170679026457788456/SquarePic_20231105_15491680.jpg?ex=6559eace&is=654775ce&hm=d9c72e49af52e976f278e45aec01dad4903071a9b1af3436e21f6c7582be67d8&"  />
-
-###
-
 <div align="left">
   <a href="https://youtube.com/@Gamostroidee?si=zNlqqVMzlbFDjOhJ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -64,6 +60,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.discordapp.net/attachments/867134542087323698/1170679026457788456/SquarePic_20231105_15491680.jpg?ex=6559eace&is=654775ce&hm=d9c72e49af52e976f278e45aec01dad4903071a9b1af3436e21f6c7582be67d8&"  />
 
 ###
 
