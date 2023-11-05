@@ -67,8 +67,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Exstrode/Exstrode/output/snake.svg" alt="Snake animation" />
 
 ###
